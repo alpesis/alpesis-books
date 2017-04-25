@@ -1,12 +1,3 @@
 ##############################################################################
-Caffe In Depth
+SolverRegistry
 ##############################################################################
-
-Table of Contents:
-
-.. toctree::
-   :maxdepth: 4
-
-   solvers/index.rst
-   layers/index.rst
-   

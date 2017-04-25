@@ -1,12 +1,9 @@
 ##############################################################################
-Caffe In Depth
+SGDSolver
 ##############################################################################
 
-Table of Contents:
-
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
 
-   solvers/index.rst
-   layers/index.rst
-   
+   sgdsolver_get_learning_rate.rst
+
