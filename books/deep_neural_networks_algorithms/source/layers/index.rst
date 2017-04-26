@@ -12,6 +12,7 @@ Forward:
    regions/index.rst
    fully_connected/index.rst
    activations/index.rst
+   normalizations/index.rst
    regularizations/index.rst
 
 Backward:
