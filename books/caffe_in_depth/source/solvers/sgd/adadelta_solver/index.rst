@@ -1,12 +1,4 @@
 ##############################################################################
-Caffe In Depth
+AdaDeltaSolver
 ##############################################################################
 
-Table of Contents:
-
-.. toctree::
-   :maxdepth: 3
-
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   

@@ -1,12 +1,5 @@
 ##############################################################################
-Caffe In Depth
+(maths) caffe_dot
 ##############################################################################
 
-Table of Contents:
-
-.. toctree::
-   :maxdepth: 3
-
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   
+dot: result[n] <- X[n] * Y[n]

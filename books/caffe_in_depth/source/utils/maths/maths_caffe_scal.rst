@@ -1,12 +1,8 @@
 ##############################################################################
-Caffe In Depth
+(maths) caffe_scal
 ##############################################################################
 
-Table of Contents:
+scal: X[n] <- alpha * X[n]
 
-.. toctree::
-   :maxdepth: 3
-
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   
+- X:
+- alpha:

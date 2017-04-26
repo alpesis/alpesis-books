@@ -1,12 +1,5 @@
 ##############################################################################
-Caffe In Depth
+(maths) caffe_asum
 ##############################################################################
 
-Table of Contents:
-
-.. toctree::
-   :maxdepth: 3
-
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   
+asum: result <- sum(xi)

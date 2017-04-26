@@ -3,11 +3,11 @@ Stochastic Gradient Decents
 ##############################################################################
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
    sgdsolver/index.rst
-   nesterov_solver.rst
-   adagrad_solver.rst
+   nesterov_solver/index.rst
+   adagrad_solver/index.rst
    rmsprop_solver/index.rst
-   adadelta_solver.rst
-   adam_solver.rst
+   adadelta_solver/index.rst
+   adam_solver/index.rst

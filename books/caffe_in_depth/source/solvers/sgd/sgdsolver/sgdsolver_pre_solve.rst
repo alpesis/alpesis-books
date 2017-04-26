@@ -1,12 +1,9 @@
 ##############################################################################
-Caffe In Depth
+(sgdsolver) PreSolve
 ##############################################################################
 
-Table of Contents:
+- history_
+- update_
+- temp_
 
-.. toctree::
-   :maxdepth: 3
 
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   
