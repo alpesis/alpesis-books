@@ -1,12 +1,3 @@
 ##############################################################################
-Layers
+(layer) Forward_cpu
 ##############################################################################
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   convolutions/index.rst
-   pooling/index.rst
-   relu/index.rst
