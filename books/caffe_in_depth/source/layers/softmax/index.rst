@@ -1,27 +1,27 @@
 ##############################################################################
-Caffe In Depth
+Softmax
 ##############################################################################
 
-Table of Contents:
-
 ==============================================================================
-Data
+Overview
 ==============================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   proto/index.rst
-   blob/index.rst
+   overview_algorithms.rst
+   overview_data.rst
+   overview_functions.rst
 
 ==============================================================================
-Network
+(layer) Softmax
 ==============================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   net/index.rst
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   
+   softmax_reshape.rst
+   softmax_forward_cpu.rst
+   softmax_backward_cpu.rst
+   softmax_forward_gpu.rst
+   softmax_backward_gpu.rst

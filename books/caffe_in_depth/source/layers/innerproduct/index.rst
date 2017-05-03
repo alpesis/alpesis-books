@@ -1,27 +1,28 @@
 ##############################################################################
-Caffe In Depth
+Inner Product
 ##############################################################################
 
-Table of Contents:
-
 ==============================================================================
-Data
+Overview
 ==============================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   proto/index.rst
-   blob/index.rst
+   overview_algorithms.rst
+   overview_data.rst
+   overview_functions.rst
 
 ==============================================================================
-Network
+(layer) Inner Product
 ==============================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   net/index.rst
-   solvers/index.rst
-   layers/index.rst
-   utils/index.rst   
+   innerproduct_layer_setup.rst
+   innerproduct_reshape.rst
+   innerproduct_forward_cpu.rst
+   innerproduct_backward_cpu.rst
+   innerproduct_forward_gpu.rst
+   innerproduct_backward_gpu.rst
