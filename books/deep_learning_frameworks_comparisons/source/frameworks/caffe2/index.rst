@@ -1,9 +1,11 @@
 ##############################################################################
-Appendices
+Caffe2
 ##############################################################################
 
-.. toctree::
-   :maxdepth: 2
 
-   frameworks.rst
-   libraries.rst
+.. toctree::
+   :maxdepth: 3
+
+   installations/index.rst
+
+   

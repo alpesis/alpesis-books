@@ -3,6 +3,7 @@ Frameworks
 ##############################################################################
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
+   caffe2/index.rst
    tensorflow/index.rst

@@ -10,4 +10,5 @@ Table of Contents:
 
    overviews/index.rst
    frameworks/index.rst
+   comparisons/index.rst
    appendices/index.rst
