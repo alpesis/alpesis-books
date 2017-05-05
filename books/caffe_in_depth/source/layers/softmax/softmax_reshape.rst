@@ -8,6 +8,10 @@
 
 3. get sum_multiplier.shape: (1, axis->num_axis) with value 1
 
+::
+
+    sum_multiplier_: shape with (1, C)
+
 4. get outer_num_ and inner_num_
 
 ::

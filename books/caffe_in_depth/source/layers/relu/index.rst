@@ -23,4 +23,4 @@ Overview
    relu_forward_cpu.rst
    relu_backward_cpu.rst
    relu_forward_gpu.rst
-   relu_backward_gpu_rst
+   relu_backward_gpu.rst
