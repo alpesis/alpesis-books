@@ -45,3 +45,10 @@ RBF
    rbf_multiquadratic.rst
    rbf_inverse_multiquadratic.rst
 
+==============================================================================
+References
+==============================================================================
+
+- `Deep Sparse Rectifier Neural Networks`_
+
+.. _`Deep Sparse Rectifier Neural Networks`: http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf
