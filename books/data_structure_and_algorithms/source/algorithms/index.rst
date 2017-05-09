@@ -1,9 +1,8 @@
 ##############################################################################
-Data Structure and Algorithms
+Algorithms
 ##############################################################################
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   algorithms/index.rst
+   graph/index.rst
