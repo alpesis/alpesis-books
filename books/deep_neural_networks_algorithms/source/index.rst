@@ -11,5 +11,5 @@ Deep Neural Networks: Algorithms
    layers/index.rst
    networks/index.rst
    solvers/index.rst
-   applications/index.rst
-   
+   models/index.rst
+   applications/index.rst 
