@@ -18,6 +18,7 @@ log
     $ git log --since=1.hour.ago
     $ git log --since=1.month.ago --until=2.weeks.ago
     $ git log --since=2000-01-01 --until=2012-12-21
+    $ git show <id>
 
 
 diff
@@ -71,8 +72,11 @@ config
     $ git config --global user.name "Gregg Pollack"
     $ git config --global user.email "gregg@codeschool.com"
     $ git config --global core.editor emacs
+    $ git config --global core.editor /usr/bin/vim
     $ git config --global merge.tool opendiff
-    
+    $ git config --local user.name "<your_name>"
+    $ git config --local user.email "<your_email>"
+     
     $ git config user.email "spamme@example.com"
     $ git config --list
     $ git config user.email
@@ -89,4 +93,5 @@ config
     $ git config --global alias.co checkout
     $ git config --global alias.br branch
     $ git config --global alias.ci commit
+    $ git config --global alias.logtree "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
     $ git st

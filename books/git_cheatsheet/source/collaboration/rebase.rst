@@ -5,8 +5,8 @@ Rebase
 ::
 
     $ git commit -am "Update the readme."
-    $ git fetch
-    $ git rebase
+    $ git fetch origin
+    $ git rebase origin
     $ git checkout admin
     $ git rebase master
     $ git checkout master

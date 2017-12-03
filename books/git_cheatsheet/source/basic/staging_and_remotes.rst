@@ -42,6 +42,7 @@ to add a remote
 ::
 
     $ git remote add origin https://github.com/XXX/xx.git
+    $ git remote set-url origin https://xxxx 
     $ git remote -v
     $ git push -u origin master
     $ git pull
