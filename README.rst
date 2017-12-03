@@ -4,19 +4,18 @@ Alpesis Books
 
 Deep Learning
 
-- caffe_in_depth
-- deep_learning_frameworks_comparison
-- deep_neural_networks_algorithms
+- [caffe_in_depth](http://alpesis-books.readthedocs.io/projects/alpesis-caffe-in-depth/en/latest/)
+- [deep_learning_frameworks_comparison](http://alpesis-books.readthedocs.io/projects/alpesis-deep-learning-frameworks-comparisons/en/latest/)
+- [deep_neural_networks_algorithms](http://alpesis-books.readthedocs.io/projects/alpesis-deep-neural-networks-algorithms/en/latest/)
 
 Programming / Software Development
 
 - software_engineering
 - data_structure_and_algorithms
 
-
 DevOps
 
-- git_cheatsheet
+- [git_cheatsheet](http://alpesis-books.readthedocs.io/projects/alpesis-git-cheatsheet/en/latest/)
 
 ==============================================================================
 Getting Started
